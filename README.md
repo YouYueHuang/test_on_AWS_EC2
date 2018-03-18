@@ -1,2 +1,16 @@
 # test_on_AWS_EC2
-tests on AWS EC2
+
+* Launch instance
+  - Actions -> Instance states -> start / stop
+
+* In `Git bash`, type
+  - USER: ssh carnd@<public ip>
+  - PSW: carnd
+
+git clone https://github.com/YouYueHuang/test_on_AWS_EC2.git
+
+* source activate carnd-term1
+* jupyter notebook <name of the notebook>.ipynb
+
+* on local machine browser
+  - http://<public ip>:8888/?token=3156e...
