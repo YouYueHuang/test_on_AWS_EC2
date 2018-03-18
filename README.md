@@ -14,3 +14,4 @@ git clone https://github.com/YouYueHuang/test_on_AWS_EC2.git
 
 * on local machine browser
   - http://`<public ip>`:8888/?token=3156e...
+  - `<public ip>`:8888/tree
