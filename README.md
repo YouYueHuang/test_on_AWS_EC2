@@ -4,7 +4,7 @@
   - Actions -> Instance states -> start / stop
 
 * In `Git bash`, type
-  - USER: ssh carnd@<public ip>
+  - USER: ssh carnd@`<public ip>`
   - PSW: carnd
 
 * Download
@@ -19,3 +19,6 @@
 * on local machine browser
   - http://`<public ip>`:8888/?token=3156e...
   - `<public ip>`:8888/tree
+  - jupyter notebook --port 8888
+
+
