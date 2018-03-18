@@ -7,7 +7,11 @@
   - USER: ssh carnd@<public ip>
   - PSW: carnd
 
-git clone https://github.com/YouYueHuang/test_on_AWS_EC2.git
+* Download
+`git clone https://github.com/YouYueHuang/test_on_AWS_EC2.git`
+
+* Update
+`git pull https://github.com/YouYueHuang/test_on_AWS_EC2.git`
 
 * source activate carnd-term1
 * jupyter notebook `<name of the notebook>`.ipynb
